@@ -1,6 +1,6 @@
-# ATM Simulator
+# ATM Simulator [NOT OOP]
 
-A C++ console application emulating core ATM functionalities. Handles client authentication, transactions, and data persistence via file I/O.
+A Procedural C++ console application emulating core ATM functionalities. Handles client authentication, transactions, and data persistence via file I/O.
 
 ## Features
 - **Login/Logout** with PIN validation
@@ -13,7 +13,7 @@ A C++ console application emulating core ATM functionalities. Handles client aut
 1. **Compile**: `g++ main.cpp -o atm`
 2. **Run**: `./atm`
 3. **Sample Account**:  
-   Account: `A123` | PIN: `1111` (modify `ClientsRecord.txt` for more)
+   Account: `A201` | PIN: `2312` (modify `ClientsRecord.txt` for more)
 
 ## Input Rules
 - Withdrawals: Multiples of 5 only
