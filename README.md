@@ -24,6 +24,6 @@ A C++ console application emulating core ATM functionalities. Handles client aut
 - `main.cpp`: Core application logic  
 - `ClientsRecord.txt`: Client data storage (auto-created)
 
-![ATM Demo](https://via.placeholder.com/400x250.png?text=ATM+Interface+Preview)
+
 
 > **Note**: Requires C++11+ compiler. Contributions welcome!
